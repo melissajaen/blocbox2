@@ -187,8 +187,10 @@ header nav ul > li.btn-outline:hover > a {
 
 /*PRICING*/
 .pricing {
-    background: #34495E url("../images/background.png") top center no-repeat;
-   background: url("../images/background.png") top center no-repeat, linear-gradient(206deg, #5F81A3 0%, #34495E 94%);
+    background:#087052;
+   background: url("../images/background.jpg") top center no-repeat, linear-gradient(206deg, #5F81A3 0%, #087052 94%);
+background: #087052;
+background-image: linear-gradient(-180deg, rgba(41,242,184,0.50) 0%, rgba(0,0,0,0.50) 100%);
     background-size:cover;
     text-align: center;
     padding:10em 0;
